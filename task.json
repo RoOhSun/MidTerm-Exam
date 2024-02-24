@@ -1,53 +1,37 @@
 [
-
     {
-   
-     "taskId": 1,
-   
-     "title": "Complete Project Proposal",
-   
-     "description": "Prepare and submit the project proposal by end of the week",
-   
-     "status": "Incomplete",
-   
-     "assignedTo": "John Doe"
-   
-    },
-   
-    {
-   
-     "taskId": 2,
-   
-     "title": "Review Code Changes",
-   
-     "description": "Review the recent code changes and provide feedback",
-   
-     "status": "Pending Review",
-   
-     "assignedTo": "Jane Smith"
-   
+       "taskId":1,
+       "title":"Complete Project Proposal",
+       "description":"Prepare and submit the project proposal by end of the week",
+       "status":"Incomplete",
+       "assignedTo":"John Doe"
     },
     {
-        "taskId": 3,
-        "title": "Client Meeting",
-        "description": "Schedule a meeting with the client to discuss project requirements and updates",
-        "status": "Scheduled",
-        "assignedTo": "Alex Johnson"
-      },
-      {
-        "taskId": 4,
-        "title": "Bug Fixing",
-        "description": "Investigate and fix the reported bug in the login module",
-        "status": "In Progress",
-        "assignedTo": "Michael Brown"
-      },
-      {
-        "taskId": 5,
-        "title": "Documentation Review",
-        "description": "Review the technical documentation and ensure it aligns with the project's current state",
-        "status": "Pending",
-        "assignedTo": "Emily Davis"
-      }
-      
-   
-   ]
+       "taskId":2,
+       "title":"Review Code Changes",
+       "description":"Review the recent code changes and provide feedback",
+       "status":"Pending Review",
+       "assignedTo":"Jane Smith"
+    },
+    {
+       "taskId":3,
+       "title":"Client Meeting",
+       "description":"Schedule a meeting with the client to discuss project requirements and updates",
+       "status":"Scheduled",
+       "assignedTo":"Alex Johnson"
+    },
+    {
+       "taskId":4,
+       "title":"Bug Fixing",
+       "description":"Investigate and fix the reported bug in the login module",
+       "status":"In Progress",
+       "assignedTo":"Michael Brown"
+    },
+    {
+       "taskId":5,
+       "title":"Documentation Review",
+       "description":"Review the technical documentation and ensure it aligns with the project's current state",
+       "status":"Pending",
+       "assignedTo":"Emily Davis"
+    }
+ ]

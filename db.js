@@ -1,3 +1,10 @@
+/*
+MIDTERM TEST  
+Filename: db.js
+Student name:Roshan Khatri
+Studnet id:200575702
+Date: 2024/02/23
+ */
 
 const express = require('express');
 const mongoose = require('mongoose');
