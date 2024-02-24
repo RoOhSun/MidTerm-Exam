@@ -9,7 +9,7 @@ Date: 2024/02/23
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-// Defining schema for the book model
+// Defining schema for the task model
 const taskSchema = new Schema({
     taskId: {type: Number},
     title: {type: String},

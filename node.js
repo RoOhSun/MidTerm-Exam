@@ -30,7 +30,7 @@ mongoose.connect(process.env.MONGODB_URL).then(() => {
     importData();
 });
 
-// Read the data from movies.json
+// Read the data from task.json
 const data = JSON.parse(fs.readFileSync('./task.json', 'utf-8'));
 
 // Import data to MongoDB if the collection is empty
